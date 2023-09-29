@@ -2,6 +2,7 @@ package com.dicoding.myquote
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.view.View
 import android.widget.Toast
 import com.dicoding.myquote.databinding.ActivityMainBinding
